@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-wxW4QkEk.js";var t=e();function n(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(`span`,{className:`reg-mark reg-tl`}),(0,t.jsx)(`span`,{className:`reg-mark reg-tr`}),(0,t.jsx)(`span`,{className:`reg-mark reg-bl`}),(0,t.jsx)(`span`,{className:`reg-mark reg-br`})]})}export{n as t};
