@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-wxW4QkEk.js";var t=e();function n({label:e,tone:n}){return(0,t.jsx)(`span`,{className:`pill-${n} inline-flex items-center px-2.5 py-0.5 rounded-lg text-xs font-bold whitespace-nowrap`,children:e})}export{n as t};

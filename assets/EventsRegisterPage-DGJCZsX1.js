@@ -1,0 +1,1 @@
+import{R as e}from"./hooks-DnavvrAZ.js";import{t}from"./components-B-grSgzg.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/events/desk?register=1`,replace:!0})}export{r as default};

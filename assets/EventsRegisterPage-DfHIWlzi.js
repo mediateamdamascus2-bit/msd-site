@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-wxW4QkEk.js";import{t}from"./components-DDM7H7hG.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/events/desk?register=1`,replace:!0})}export{r as default};
